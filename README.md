@@ -1,8 +1,8 @@
 # paper_JGR_Verger-Miralles_etal_2026
 Codes to accompany "3D Reconstruction and Vertical Velocity Decomposition of an Intrathermocline Eddy from SWOT and Glider Observations"
 -------------------------------------------------------------------------------------------------
-Code to reproduce the reconstruction and the published figures of the manuscript from the 
-glider, CTD, ADCP and SWOT L3 observations.
+Code to reproduce the reconstruction and the published figures of the manuscript. For the reconstruction we use 
+glider profiles, and SWOT L3 observations, and for validation we use CTD, ADCP data (all from FaSt-SWOT experiment).
 
 **Author:** Elisabet Verger-Miralles, IMEDEA (CSIC-UIB)
 
