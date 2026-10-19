@@ -45,5 +45,5 @@ then run all cells top to bottom. Figures are written to `figures/`.
 
 ## Citation
 
-If you use this code, please cite the manuscript (see repository citation file / GitHub "Cite this
+If you use this code, please cite the manuscript and this repository (see repository citation file / GitHub "Cite this
 repository" once the paper is published).
